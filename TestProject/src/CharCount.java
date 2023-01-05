@@ -7,6 +7,7 @@ public class CharCount extends JFrame implements ActionListener{
     JButton b;  
     JButton pad,text;  
     CharCount(){  
+         //New comment
         super("Char Word Count Tool - JTP");  
         lb1=new JLabel("Characters: ");  
         lb1.setBounds(50,50,100,20);  
